@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c48538a6-9843-4729-b1a5-0e8d54e2f509" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ex10String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex11String1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExMath3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex12StringBuider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex13IO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex14IO1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Ex10String.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Ex10String.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/Ex11String1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/Ex11String1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex10String.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex10String.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex11String1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex11String1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex10String">
+  <component name="RunManager" selected="Application.Ex14IO1">
     <configuration name="Ex10String" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex10String" />
       <module name="HelloWorld" />
@@ -60,22 +64,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7Math1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7Math1" />
+    <configuration name="Ex12StringBuider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12StringBuider" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex8Math2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex8Math2" />
+    <configuration name="Ex13IO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13IO" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExMath3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExMath3" />
+    <configuration name="Ex14IO1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14IO1" />
       <module name="HelloWorld" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -83,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex10String" />
+        <item itemvalue="Application.Ex14IO1" />
+        <item itemvalue="Application.Ex13IO" />
+        <item itemvalue="Application.Ex12StringBuider" />
         <item itemvalue="Application.Ex11String1" />
-        <item itemvalue="Application.ExMath3" />
-        <item itemvalue="Application.Ex8Math2" />
-        <item itemvalue="Application.Ex7Math1" />
+        <item itemvalue="Application.Ex10String" />
       </list>
     </recent_temporary>
   </component>

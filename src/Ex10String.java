@@ -1,7 +1,7 @@
 public class Ex10String {
     public static void main(String[] args) {
         String dec = new String("Hell");
-        String myName = "Erik Horus";
+        String myName = new String("Erik Horus");
 
         String firstName = myName.substring(0,4);
 
